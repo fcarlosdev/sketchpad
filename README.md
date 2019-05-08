@@ -4,4 +4,4 @@ Description: Building a browser version of something between a sketchpad and an 
 
 Objective : Training Javascript/JQuery habilities.
 
-Final Result: [Sdetchpad](https://fcarlosdev.github.io/sketchpad/)
+Final Result: [Sketchpad](https://fcarlosdev.github.io/sketchpad/)
